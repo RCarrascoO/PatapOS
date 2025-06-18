@@ -33,6 +33,7 @@ Repositorio Oficial de PatapOS - Un sistema operativo hecho para VM o Notebooks 
 
 ## 🛠️ Links:
 ISO: https://drive.google.com/file/d/1F55nueG9H2h7402Pk9EQwpaLpmsg0XBn/view?usp=sharing
+Mas optimizacion (Usar en Powershell como admin): irm christitus.com/win | iex
 
 ## 🛠️ Post Install
 
